@@ -1,0 +1,15 @@
+C:\Users\AnZhou\FindSource\bin\Debug\net6.0\FindSource.exe
+C:\Users\AnZhou\FindSource\bin\Debug\net6.0\FindSource.deps.json
+C:\Users\AnZhou\FindSource\bin\Debug\net6.0\FindSource.runtimeconfig.json
+C:\Users\AnZhou\FindSource\bin\Debug\net6.0\FindSource.dll
+C:\Users\AnZhou\FindSource\bin\Debug\net6.0\FindSource.pdb
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\FindSource.csproj.AssemblyReference.cache
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\FindSource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\FindSource.AssemblyInfoInputs.cache
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\FindSource.AssemblyInfo.cs
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\FindSource.csproj.CoreCompileInputs.cache
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\FindSource.dll
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\refint\FindSource.dll
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\FindSource.pdb
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\FindSource.genruntimeconfig.cache
+C:\Users\AnZhou\FindSource\obj\Debug\net6.0\ref\FindSource.dll
